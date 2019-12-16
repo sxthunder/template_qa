@@ -1,0 +1,9 @@
+{
+	"visitTimeInd":["入院时间"],
+    "operationTimeInd": ["手术时间"],
+    "diagonalTimeInd": ["诊断时间"],
+    "examineTimeInd": ["检查时间"],
+    "measumentTimeInd": ["检验时间"],
+    "leaveTimeInd": ["出院时间"],
+    "examineOrMeasumentInd": ["结果"]
+}

@@ -1,0 +1,8 @@
+{
+  "出院入院门诊时间": ["diagnose_class_name","dept_name","hospitalized_times"],
+  "检查时间": ["et_concept_id","examine_name","Attribute_source_value","Attr_value_source_value","em_source_value"],
+  "患病时间": ["disease_name","diagnose_type_name"],
+  "检验时间": ["em_source_value","measurement_name","specimen_name","measurement_name","value_source_value"],
+  "用药时间": ["drug_name","route_source_value"],
+  "手术时间": ["operation_name","anesthesia_name"]
+}

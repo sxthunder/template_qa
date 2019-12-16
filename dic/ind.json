@@ -1,0 +1,14 @@
+{
+	"lenthInd":["身高","cm","高度","厘米","米","M","m","CM"],
+	"weightInd":["体重", "kg", "磅", "KG", "重","重量"],
+	"ageInd":["年龄", "年岁", "春秋", "年纪", "岁", "天"],
+    "zhuyuancishuInd":["住院次数"],
+	"OperationTimeInd":["手术时间"],
+    "VisitTimeInd":["入院时间"],
+    "OutTimeInd":["出院时间"],
+    "DiseaseTimeInd":["患病时间"],
+    "diagonalTimeInd":["门诊时间"],
+    "examineTimeInd": ["检查时间"],
+    "measumentTimeInd": ["检验时间"],
+    "drugTimeInd": ["用药时间"]
+}
